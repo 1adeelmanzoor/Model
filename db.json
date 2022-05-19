@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "adeel",
+      "lastname": "manzoor",
+      "gender": "female",
+      "location": "sialkot"
+    },
+    {
+      "id": "2",
+      "firstname": "aqeel",
+      "lastname": "manzoor",
+      "gender": "female",
+      "location": "sialkot"
+    },
+    {
+      "firstname": "nabeel",
+      "lastname": "manzoor",
+      "gender": "female",
+      "location": "sialkot",
+      "id": "EMK0ekf"
+    }
+  ]
+}
