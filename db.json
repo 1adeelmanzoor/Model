@@ -1,25 +1,31 @@
 {
   "student": [
     {
-      "id": "1",
-      "name": "adeel",
-      "lastname": "manzoor",
-      "gender": "female",
-      "location": "sialkot"
+      "First_Name": "danish",
+      "Last_Name": "rasheed",
+      "Email": "danish@gmail.com",
+      "Address": "lhr",
+      "Phone_Number": "0301",
+      "Roll_number": "1",
+      "id": 31
     },
     {
-      "id": "2",
-      "firstname": "aqeel",
-      "lastname": "manzoor",
-      "gender": "female",
-      "location": "sialkot"
+      "First_Name": "adeel",
+      "Last_Name": "manzoor",
+      "Email": "adeel@gmail.com",
+      "Address": "stk",
+      "Phone_Number": "0302",
+      "Roll_number": "2",
+      "id": 31
     },
     {
-      "firstname": "nabeel",
-      "lastname": "manzoor",
-      "gender": "female",
-      "location": "sialkot",
-      "id": "EMK0ekf"
+      "First_Name": "nabeel",
+      "Last_Name": "ahmad",
+      "Email": "ahmad@gmail.com",
+      "Address": "lhr",
+      "Phone_Number": "0303",
+      "Roll_number": "3",
+      "id": 34
     }
   ]
 }
